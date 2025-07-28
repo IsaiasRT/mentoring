@@ -6,11 +6,11 @@ Mentorship Programme Notes: Template firstname lastname
 This is a collaborative document to keep track of progress during the mentorship programme.
 
 :::info
-- **Call time**: 30min time slot, day of week
-- **Project name**: 	
-- **Mentees**: firstname lastname
-- **Mentor(s)**: firstname lastname
-- **Call joining link**: specify
+- **Call time**: 2pm (UTC), Monday, Wednesday, Friday
+- **Project name**: https://github.com/sktime/sktime/pull/8562 and https://github.com/sktime/sktime/pull/8616#partial-pull-merging
+- **Mentees**: Isaias Ruiz
+- **Mentor(s)**: Franz Kiraly
+- **Call joining link**: Discord channel
 :::
 
 
